@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="orderSummary">ORDER SUMMARY</string>
+    <string name="whippedCream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="order">ORDER</string>
+    <string name="enter">Enter your Name:</string>
+    <string name="fixPrice">$5</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="totalJ">Total: $</string>
+    <string name="quantityJ">Quantity: </string>
+    <string name="addchJ">Add chocolate? </string>
+    <string name="addwhJ">Add whipped cream? </string>
+    <string name="nameJ">Name: </string>
+    <string name="subjectJ"> This was the order for: </string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name">"الإسم: "</string>
+    <string name="addwhJ">اضافة كريم؟</string>
+    <string name="addchJ">اضافة تشوكليت؟</string>
+    <string name="quantityJ">"الكمية: "</string>
+    <string name="totalJ">الاجمالي: جم</string>
+    <string name="thank_you">شكرا لك!</string>
+    <string name="fixPrice">5 جم</string>
+    <string name="enter">برجاء ادخال إسمك:</string>
+    <string name="order">نفذ الطلب.</string>
+    <string name="chocolate">تشوكليت</string>
+    <string name="whippedCream">كريم</string>
+    <string name="orderSummary">ملخص الطلب</string>
+    <string name="quantity">الكمية</string>
+    <string name="toppings">اضافات</string>
+    <string name="nameJ">الإسم :</string>
+    <string name="subjectJ">"هذا الطلب تم للعميل/ه: "</string>
+</resources>
